@@ -1,6 +1,12 @@
+ Full Stack Web Developer
 - 
-- 👀 I’m interested in python programming , full stack web development. 
-- 🌱 I’m currently learning python , javascript , react and bootstrap. 
+- Favorite Front end Framework , ReactJS 
+- Experience with python backend (django, flask) 
+- Node JS / Express
+- MongoDB , Postgres
+- HTML / CSS
+- Mobile First (responsive Design)
+
 
 
 
