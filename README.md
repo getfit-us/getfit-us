@@ -2,7 +2,7 @@
 - 
 - Favorite Front end Framework , ReactJS 
 - Node JS / Express
-- MongoDB , Postgres
+- MongoDB , Postgres, SQL
 - HTML / CSS
 - Mobile First (responsive Design)
 
