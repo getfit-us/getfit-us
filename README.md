@@ -4,7 +4,6 @@
 - Node JS / Express
 - MongoDB , Postgres, SQL
 - HTML / CSS
-- Mobile First (responsive Design)
 
 
 
