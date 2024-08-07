@@ -1,9 +1,9 @@
  Full Stack Dev
- -React
- -Node
- -SQL , Mongo
- -Python
- -AI
+ #React
+ #Node
+ #SQL , Mongo
+ #Python
+ #AI
 
 
 
